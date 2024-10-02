@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ivhan Salazar</h1>
 <h3 align="center">An aspiring frontend developer</h3>
-
-📫 How to reach me **ivhanchris761@gmail.com**
-
 <h3 align="left">Connect with me: </h3>
-**ivhanchris761@gmail.com**
+
+📫  **ivhanchris761@gmail.com**
+
+
 <p align="left">
 </p>
 
