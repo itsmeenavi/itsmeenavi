@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivhan Salazar</h1>
-<h3 align="center">An aspiring web developer</h3>
+<h3 align="center">An aspiring Web Developer</h3>
 <h3 align="left">Connect with me: </h3>
 
 📫  **ivhanchris761@gmail.com**
