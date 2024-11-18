@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an aspiring Web Developer<br>🌱 I’m currently learning<br>- ReactJS<br>- ThreeJS<br>- Python Machine Learning<br>- Svelte<br>- Kivy
+🔭 I’m an aspiring Web Developer<br>🌱 I’m currently learning<br>- ReactJS<br>- Mern Stack<br>- Python Machine Learning<br>- Golang<br>- AWS EC2
 
 
 ## 🌐 Socials:
