@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an aspiring Web Developer<br>🌱 I’m currently learning<br>- ReactJS<br>- Mern Stack<br>- Python Machine Learning<br>- Golang<br>- AWS EC2
+🔭 I’m an aspiring Web Developer<br>🌱 I’m currently learning<br>- NextJS<br>- Mern Stack<br>- Python Machine Learning<br>- Golang<br>- AWS EC2<br>- Supabase
 
 
 ## 🌐 Socials:
