@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an aspiring Web Developer<br>🌱 I’m currently learning<br>- NextJS<br>- React JS<br>- Typescript<br>- AWS EC2<br>- Supabase
+🔭 I’m an aspiring Web Developer<br>🌱 I’m currently learning<br>- NextJS<br>- React JS<br>- Typescript<br>- Laravel<br>- Supabase
 
 
 ## 🌐 Socials:
