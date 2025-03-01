@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an aspiring Web Developer<br>🌱 I’m currently learning<br>- NextJS<br>- React JS<br>- Laravel<br>- Supabase
+🔭 I’m an aspiring Web Developer<br>🌱 I’m currently learning<br>- NextJS<br>- React JS<br>- Laravel<br>- Docker
 
 
 ## 🌐 Socials:
