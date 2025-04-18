@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Frontend Web Developer<br>🌱 I’m currently learning<br>- NextJS<br>- React JS<br>- Laravel
+🔭 I’m a Frontend Web Developer<br>🌱 I’m currently learning<br>- NextJS<br>- React JS<br>- Flutter
 
 
 ## 🌐 Socials:
