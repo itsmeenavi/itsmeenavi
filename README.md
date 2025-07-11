@@ -15,6 +15,10 @@
 
 ![](https://streak-stats.demolab.com/?user=itsmeenavi&theme=holi&hide_border=false&)<br/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeenavi&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
+![Anurag's GitHub stats-Compact](https://github-readme-stats.vercel.app/api?username=itsmeenavi&show_icons=true&theme=holi&layout=compact)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeenavi&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=itsmeenavi&icon=5&color=8&)](https://visitcount.itsvg.in)
