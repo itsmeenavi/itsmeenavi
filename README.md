@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsmeenavi&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=itsmeenavi&theme=dark)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=itsmeenavi)](https://git.io/streak-stats)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeenavi&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
