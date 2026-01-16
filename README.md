@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Frontend Web Developer<br>🌱 I’m currently learning<br>- Next.js<br>- ReactJS<br>- Flutterflow<br>- Zustand<br>- Tanstack Query
+🔭 I’m a Full Stack Developer<br>🌱 I’m currently learning<br>- Vue.js<br>- ReactJS<br>- Zustand<br>- Tanstack Query
 
 
 ## 🌐 Socials:
